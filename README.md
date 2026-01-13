@@ -20,7 +20,7 @@ Diferente da maioria dos scripts que dependem de serviços externos (como `check
 
 ---
 
-### onfiguração
+### Configuração
 
 #### 1. Obter IDs da Cloudflare
 Você precisará do `Zone ID` (disponível na página inicial do domínio na Cloudflare) e do `Record ID` (ID específico do subdomínio que deseja atualizar).
